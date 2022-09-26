@@ -1,1 +1,4 @@
 # PythonActivities
+
+While conducting this analysis, I made a few discoveries with the data between Charter type schools and public schools. Charter types have a higher performance score on a lower budget as opposed to public schools.
+This could be a result of them allocating their resources carefully and investing in the right tools for student success. Also, as supported by the data, Charter types have a higher reading and math score. By looking at the data, while it is true that public schools have a higher budget overall, they also tend to have more students. This shows why publlic schools have varying data such as how grade 12s perform better in public school than the grade 12s at charter type schools as depicted 
