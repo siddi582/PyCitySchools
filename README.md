@@ -1,7 +1,7 @@
-# SCHOOL District Analysis
+# PyBer City School Analysis
  The following program was run using Anaconda, Jupyter Notebook, Pandas & Python
  ## Overview of Project
-List of deliverables for the analysis of the school district:
+List of deliverables for the analysis:
 
 A high-level snapshot of the district's key metrics, presented in a table format
 An overview of the key metrics for each school, presented in a table format
