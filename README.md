@@ -115,10 +115,10 @@ The average reading score of all the students in Grades 11 and 12 is combined an
 ![Gr11 12s](https://user-images.githubusercontent.com/111712209/192476495-0c77ce66-64cc-4548-9823-c6dfc2880db9.png)
 
 Deliverable 5: Compare the Data
-The average budget for each school type is displayed using groupby and mean functions as shown (7 points)
+The average budget for each school type is displayed using groupby and mean functions as shown. 
 ![GroupbyMean](https://user-images.githubusercontent.com/111712209/192476933-d5d955dd-d6a0-4fb6-ac16-bec0cfbbcd0b.png)
 
-The total number of students per school is displayed in descending order using groupby, count, sort_values. (6 points)
+The total number of students per school is displayed in descending order using groupby, count, sort_values. 
 ![Groupby](https://user-images.githubusercontent.com/111712209/192477480-c135673f-6f83-4f4c-a682-7eda13aad510.png)
 
 "Groupby"
@@ -130,7 +130,7 @@ The total number of students per school is displayed in descending order using g
 ![Sort_Values](https://user-images.githubusercontent.com/111712209/192478023-d277e46a-dbda-478d-af42-5e37b39ec099.png)
 
 "sort_values"
-The average math scores for each combination of grade and school type are displayed. (7 points)
+The average math scores for each combination of grade and school type are displayed. 
 
 Deliverable 6: Report Findings
 
