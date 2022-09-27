@@ -16,7 +16,7 @@ School performance based on the type of school
 **Before we can begin these tasks, we need to import the datasets into Jupyter Notebook using Python.
 
 ###Resources
-Data Source: PyCitySchools.ipynb file and rename it PyCitySchools_Challenge_testing.ipynb.
+Data Source: Student_Data_Challenge_Starter_Code.ipynb file and rename it Pyber_Analysis.ipynb.
 Software: Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
 For more information, read the Documentation on Pandas DataFrame.
 
